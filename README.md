@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 - 👯 I’m looking to collaborate on interesting open-source projects and innovative tech solutions.
 - 🤔 I’m looking for help with mastering Kubernetes and Docker.
 - 💬 Ask me about web development, JavaScript, Python, and open-source contributions.
-- 📫 How to reach me: [kynmh69@example.com](mailto:kynmh69@example.com)
+- 📫 How to reach me: [notify@mail.kynmh69.net](mailto:notify@mail.kynmh69.net)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking and photography during my free time.
 
